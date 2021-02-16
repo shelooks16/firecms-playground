@@ -34,6 +34,8 @@ const PagesViewCollectionTable = () => {
   return (
     <Container>
       <BorderBox>
+        <Box mb={2}>[FIXED] Fixed as of v0.25.2. Below is irrelevant</Box>
+
         <Box mb={2}>
           Below is the result of rendering {"<EntityCollectionTable />"}. The
           container for actual table has implicit CSS {"height: 100%"} which

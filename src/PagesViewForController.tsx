@@ -36,6 +36,7 @@ export default function PagesViewForController() {
         mt={4}
         mx="auto"
       >
+        <Box mb={2}>[FIXED] Fixed as of v0.25.2. Below is irrelevant</Box>
         <Box mb={2}>Closing opened entities throws an error</Box>
         <Box mb={2}>
           When clicked, the URL changes to <b>/c/pages</b>. Only when the
